@@ -34,7 +34,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.sl.App</mainClass> <!-- Change this -->
+                            <mainClass>com.sl.jenkinspractice.App</mainClass> <!-- Change this -->
                         </manifest>
                     </archive>
                 </configuration>

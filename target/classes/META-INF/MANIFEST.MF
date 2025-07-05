@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
 Build-Jdk-Spec: 23
-Main-Class: com.sl.App
+Main-Class: com.sl.jenkinspractice.App
 Created-By: Maven Integration for Eclipse
 
