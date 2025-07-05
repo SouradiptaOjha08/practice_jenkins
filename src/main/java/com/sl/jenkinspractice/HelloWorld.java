@@ -7,5 +7,6 @@ public class HelloWorld {
 	
 	public void print() {
 		System.out.println(a+b);
+		System.out.println(a*b);
 	}
 }
